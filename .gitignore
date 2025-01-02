@@ -1,0 +1,6 @@
+secrets.txt 
+
+#it's a command line you can use for remarks 
+#maning that all extension (.html) files has been ignore 
+#similar it's for /* everhting under the directory 
+*.html 
